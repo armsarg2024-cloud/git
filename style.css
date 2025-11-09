@@ -6,7 +6,7 @@
       padding: 20px;
       border-radius: 12px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-      max-width: 1500px;
+      max-width: 800px;
 
 
   }
@@ -88,4 +88,13 @@
   }
 .mmm{
     padding: 10px;
+}
+@media only screen and (max-width: 600px) {
+.a2{flex-wrap: wrap;}
+.a1{flex-wrap: wrap;}
+
+
+
+
+  
 }
